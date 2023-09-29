@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Buy Book"
+    },
+    {
+      "id": "2",
+      "text": "Buy Apples"
+    },
+    {
+      "id": "bf20d41b-5da8-49ba-bba3-21f5e71fcc19",
+      "text": "Go to gym"
+    },
+    {
+      "id": "da48d754-a3e2-4daf-834e-4a89ce0c6c39",
+      "text": "Learn French"
+    }
+  ]
+}
